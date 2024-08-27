@@ -20,13 +20,7 @@ const projects: Project[] = [
     title: "JavaScript Todo List",
     techs: ["HTML", "CSS", "JavaScript", "Bootstrap"],
     link: "https://github.com/nils-dambowy/JavaScriptToDoList",
-  },
-  {
-    title: "Portfolio / Template",
-    techs: ["Astro", "TypeScript"],
-    link: "https://github.com/MaeWolff/astro-portfolio-template",
-    isComingSoon: true,
-  },
+  }
 ];
 
 export default projects;
