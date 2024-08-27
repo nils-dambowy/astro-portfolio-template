@@ -16,19 +16,15 @@ const presentation: Presentation = {
   title: "Hi, I’m Nils 👋",
   // profile: "/profile.webp",
   description:
-    "I'm a *Computer Science* student at TU Darmstadt. I am currently focusing on developing my knowledge in the areas of AI and web-development.",
+    "I'm a *Computer Science* student at TU Darmstadt. I am currently focusing on developing my knowledge in the areas of *AI* and *web-development.*",
   socials: [
     {
-      label: "X",
-      link: "https://twitter.com/itsstormzz_",
-    },
-    {
-      label: "Bento",
-      link: "https://bento.me/m-wolff",
+      label: "LinkedIn",
+      link: "https://www.linkedin.com/in/nils-dambowy-6a2584249/",
     },
     {
       label: "Github",
-      link: "https://github.com/MaeWolff",
+      link: "https://github.com/nils-dambowy",
     },
   ],
 };
