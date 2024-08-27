@@ -7,19 +7,19 @@ export type Project = {
 
 const projects: Project[] = [
   {
-    title: "Puppetfactory",
-    techs: ["Next.js", "TypeScript"],
-    link: "https://puppetfactory.app/",
+    title: "Implementing Neural Style Transfer using the VGG-19 model",
+    techs: ["Deep Learning", "Python", "PyTorch"],
+    link: "https://github.com/nils-dambowy/Neural-Style-Transfer",
   },
   {
-    title: "Script to generate Next.js project",
-    techs: ["Shell"],
-    link: "https://github.com/MaeWolff/create-nextjs-app-bash-script",
+    title: "JavaScript Weather App",
+    techs: ["HTML", "CSS", "JavaScript", "Bootstrap"],
+    link: "https://github.com/nils-dambowy/JSWeatherApp",
   },
   {
-    title: "Dictionary App",
-    techs: ["Next.js", "react-query", "zod"],
-    link: "https://github.com/MaeWolff/dictionary-app",
+    title: "JavaScript Todo List",
+    techs: ["HTML", "CSS", "JavaScript", "Bootstrap"],
+    link: "https://github.com/nils-dambowy/JavaScriptToDoList",
   },
   {
     title: "Portfolio / Template",
