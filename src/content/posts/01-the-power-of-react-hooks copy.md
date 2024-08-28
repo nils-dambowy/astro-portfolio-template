@@ -11,15 +11,15 @@ isDraft: true
 
 Coming from a background where I was accustomed to the traditional way of defining functions, encountering arrow functions for the first time was a bit of a shock. For instance, I was used to writing functions like this:
 
-```javascript
+``javascript
 (function (a) {
   return a + 100;
 });
-```
+``
 But in React, I saw this transformed into a much more concise version:
-```javascript
+``javascript
 a => a + 100
-```
+``
 This transition was mind-blowing at first. The arrow function removes the need for the function keyword and the explicit return statement, which I had grown so familiar with. Understanding this new syntax required me to rethink how I approached functions in JavaScript:
 
 The arrow function syntax is a simplified way of writing functions, where the function keyword is omitted, and the return value is implied.
