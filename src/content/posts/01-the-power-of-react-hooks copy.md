@@ -1,9 +1,10 @@
 ---
 title: "The Power Of React Hooks"
-publishedAt: 2023-05-24
-description: "Lorem ipsum dolor sit amet consectetur et ultrices blandit neque ege"
+publishedAt: 2024-08-29
+description: "A short essay about my journey of learning React"
 slug: "the-power-of-react-hooks"
-isPublish: true
+isPublish: false
+isDraft: true
 ---
 
 ## Vocesque meum remis est neque Neptunus monte
