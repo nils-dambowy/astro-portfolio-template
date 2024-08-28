@@ -33,9 +33,9 @@ const increment = () =>
                   setCount(prevCount => prevCount + 1);
 ```
 Breaking it down:
-- increment is simply the name of the function.
-- The empty () indicates there are no parameters.
-- The => arrow points to the logic that will execute and return a value.
+* increment is simply the name of the function.
+* The empty () indicates there are no parameters.
+* The => arrow points to the logic that will execute and return a value.
 
 But what exactly are setCount and prevCount doing here? This question leads us into the heart of React: managing state.
 
