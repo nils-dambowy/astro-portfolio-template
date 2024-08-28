@@ -29,7 +29,8 @@ If there are no parameters, an empty pair of parentheses () is used.
 Once I grasped that arrow functions could be treated like variables in JavaScript, the syntax began to make more sense. For example, consider this arrow function:
 
 ```javascript
-const increment = () => setCount(prevCount => prevCount + 1);
+const increment = () => 
+                  setCount(prevCount => prevCount + 1);
 ```
 Breaking it down:
 - increment is simply the name of the function.
