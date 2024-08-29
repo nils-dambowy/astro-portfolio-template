@@ -20,6 +20,11 @@ const projects: Project[] = [
     title: "JavaScript Todo List",
     techs: ["HTML", "CSS", "JavaScript", "Bootstrap"],
     link: "https://github.com/nils-dambowy/JavaScriptToDoList",
+  },
+  {
+    title: "Investment Calculator",
+    techs: ["HTML", "CSS", "JavaScript", "React"],
+    link: "https://github.com/nils-dambowy/InvestmentCalculator",
   }
 ];
 
