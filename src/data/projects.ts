@@ -25,6 +25,11 @@ const projects: Project[] = [
     title: "Investment Calculator",
     techs: ["HTML", "CSS", "JavaScript", "React"],
     link: "https://github.com/nils-dambowy/InvestmentCalculator",
+  },
+  {
+  title: "openbouldermap",
+  techs: ["HTML", "CSS", "JavaScript", "React", "Bootstrap", "Leaflet"],
+  link: "https://github.com/nils-dambowy/openbouldermap",
   }
 ];
 
